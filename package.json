@@ -1,0 +1,19 @@
+{
+  "name": "num-reporter",
+  "version": "1.0.0",
+  "description": "For CRO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maral Abdreissov",
+  "license": "ISC",
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "date-format": "^1.2.0",
+    "fs": "0.0.1-security",
+    "mysql": "^2.15.0",
+    "sync-mysql": "^3.0.1",
+    "wait-for-stuff": "^1.4.0"
+  }
+}
